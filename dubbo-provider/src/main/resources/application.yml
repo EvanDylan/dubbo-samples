@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: service-provider
+dubbo:
+  registry:
+    address: N/A
+  protocol:
+    port: 12345
